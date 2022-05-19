@@ -1,0 +1,12 @@
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\bin\Debug\net6.0\WAPP-InsideAirBnB.Shared.deps.json
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\bin\Debug\net6.0\WAPP-InsideAirBnB.Shared.dll
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\bin\Debug\net6.0\WAPP-InsideAirBnB.Shared.pdb
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\obj\Debug\net6.0\WAPP-InsideAirBnB.Shared.csproj.AssemblyReference.cache
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\obj\Debug\net6.0\WAPP-InsideAirBnB.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\obj\Debug\net6.0\WAPP-InsideAirBnB.Shared.AssemblyInfoInputs.cache
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\obj\Debug\net6.0\WAPP-InsideAirBnB.Shared.AssemblyInfo.cs
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\obj\Debug\net6.0\WAPP-InsideAirBnB.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\obj\Debug\net6.0\WAPP-InsideAirBnB.Shared.dll
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\obj\Debug\net6.0\refint\WAPP-InsideAirBnB.Shared.dll
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\obj\Debug\net6.0\WAPP-InsideAirBnB.Shared.pdb
+C:\Users\Jorrit\Documents\00_HAN\NotS WAPP\WAPP-InsideAirBnB\Shared\obj\Debug\net6.0\ref\WAPP-InsideAirBnB.Shared.dll
